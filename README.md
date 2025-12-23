@@ -82,31 +82,7 @@ Dense(16, ReLU)
 Output(1)
 ```
 
----
 
-## 📁 출력 파일
-
-```
-output/
-├── model_performance_comparison.png    # 성능 비교 시각화
-├── best_model_analysis.png             # 최고 모델 분석
-├── model_comparison_results.xlsx       # 상세 결과
-└── modeling_report.txt                 # 최종 보고서
-```
-
----
-
-## 🎓 모델 성능 평가 지표
-
-| 지표 | 설명 | 범위 |
-|------|------|------|
-| **R²** | 결정계수 | -∞ ~ 1 |
-| **RMSE** | 제곱 평균 제곱근 오차 | 0 ~ ∞ |
-| **MAE** | 평균 절대 오차 | 0 ~ ∞ |
-| **MAPE** | 평균 절대 백분율 오차 | 0% ~ ∞% |
-| **MSE** | 평균 제곱 오차 | 0 ~ ∞ |
-
----
 
 ## 📅 PoC 수행 기간
 
@@ -115,9 +91,6 @@ output/
 
 ---
 
-## 📞 문의
-
-이슈나 개선 사항은 GitHub Issues를 통해 등록해주세요.
 
 ---
 
